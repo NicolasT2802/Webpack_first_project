@@ -1,0 +1,33 @@
+<%=
+	require('./partials/head.ejs')()
+
+	require('./partials/language/language.ejs')()
+
+	require('./partials/header.ejs')()
+
+	require('./partials/header_banner.ejs')()
+
+	require('./partials/slot_5r.ejs')()
+
+	require('./partials/slot_edito.ejs')()
+
+	require('./partials/slot_actualites.ejs')()
+
+	require('./partials/slot_quizz.ejs')()
+
+	require('./partials/slot_banCorner.ejs')()
+
+	require('./partials/footer.ejs')()
+%>
+
+<%=
+	require('./partials/edito/edito.ejs')({
+		image      : 'bonjour',
+		rubrique   : "Le mot de la présidente EN",
+		title    : "RAJA et l'environnement",
+		desc     : "L’emballage et l’environnement constituent des enjeux stratégiques majeurs pour notre Groupe et nous nous inscrivons dans une démarche active et pérenne de réduction de notre impact sur l’environnement.",
+		texte    : "Depuis de nombreuses années, RAJA mène des actions à tous les niveaux de l’entreprise, retrouvez-les dans la rubrique Raja & l’environnement. <br /> Nous élargissons également notre offre pour vous proposer plus de solutions alternatives à découvrir dans Nos emballages éco-responsables. <br />Nous souhaitons aussi promouvoir les bonnes pratiques en matière d’emballage. Elles peuvent se décliner en \"5-R\": réduire, réutiliser, remplacer, renouveler, recycler. <br />Enfin, pour la 4e année consécutive, notre programme d’actions \"Femmes et environnement\" engagé par la Fondation RAJA-Danièle Marcovici se poursuit, découvrez-en les avancées.<br /><br /> Agissons ensemble !",
+		signature: "signature-dk",
+		fonction : "Présidente-Directrice Générale"
+	})
+%>

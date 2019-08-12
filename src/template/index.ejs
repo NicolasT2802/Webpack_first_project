@@ -1,0 +1,38 @@
+<%=
+	require('./../partials/head.ejs')()
+%>
+
+<%=
+	require('./../partials/header_language/language.ejs')()
+%>
+
+<%=
+	require('./../partials/header/header.ejs')()
+%>
+
+<%=
+	require('./../partials/header_banner_hp/header_banner.ejs')()
+%>
+
+<%=
+	require('./../partials/slot_5r/slot_5r.ejs')()
+%>
+
+<%=
+	require('./../partials/edito/edito.ejs')({
+		image    	: "json.images",
+		image_alt	: "altimage",
+		rubrique 	: "Le mot de la présidente",
+		title    	: "L'environnement",
+		desc     	: "L’emballage et l’environnement constituent des enjeux stratégiques majeurs pour notre Groupe et nous nous inscrivons dans une démarche active et pérenne de réduction de notre impact sur l’environnement.",
+		texte    	: "Depuis de nombreuses années, des actions sont menés à tous les niveaux de l’entreprise <br /> Nous élargissons également notre offre pour vous proposer plus de solutions alternatives à découvrir dans Nos emballages éco-responsables. <br />Nous souhaitons aussi promouvoir les bonnes pratiques en matière d’emballage. Elles peuvent se décliner en \"5-R\": réduire, réutiliser, remplacer, renouveler, recycler. <br />Enfin, pour la 4e année consécutive.<br /><br /> Agissons ensemble !",
+		signature	: "signature",
+		fonction 	: "Commissionnaire"
+	})
+%>
+
+<%= "test d appel du json : " + images %>
+
+<%=
+	require('./../partials/footer.ejs')()
+%>

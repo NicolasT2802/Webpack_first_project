@@ -1,0 +1,33 @@
+{
+	"FR": {
+		"fr" : {
+			"image": "img-principale",
+			"rubrique" : "Le mot de la présidente",
+			"title": "L'environnement",
+			"desc": "L’emballage et l’environnement constituent des enjeux stratégiques majeurs pour notre Groupe et nous nous inscrivons dans une démarche active et pérenne de réduction de notre impact sur l’environnement.",
+			"texte": "Depuis de nombreuses années, des actions à tous les niveaux de l’entreprise, retrouvez-les dans la rubrique environnement. <br /> Nous élargissons également notre offre pour vous proposer plus de solutions alternatives à découvrir dans Nos emballages éco-responsables. <br />Nous souhaitons aussi promouvoir les bonnes pratiques en matière d’emballage. Elles peuvent se décliner en \"5-R\": réduire, réutiliser, remplacer, renouveler, recycler. <br />Enfin, pour la 4e année consécutive, notre programme d’actions \"Femmes et environnement\" engagé par la Fondation se poursuit, découvrez-en les avancées.<br /><br /> Agissons ensemble !",
+			"signature": "signature",
+			"fonction": "PDG"
+		}
+	},
+	"CH": {
+		"fr": {
+			"image": "img-principale",
+			"rubrique" : "Le mot de la présidente CH en version Française",
+			"title": "L'environnement CH en version Française",
+			"desc": "L’emballage et l’environnement constituent des enjeux stratégiques majeurs pour notre Groupe et nous nous inscrivons dans une démarche active et pérenne de réduction de notre impact sur l’environnement.",
+			"texte": "Depuis de nombreuses années, des actions à tous les niveaux de l’entreprise, retrouvez-les dans la rubrique Raja & l’environnement. <br /> Nous élargissons également notre offre pour vous proposer plus de solutions alternatives à découvrir dans Nos emballages éco-responsables. <br />Nous souhaitons aussi promouvoir les bonnes pratiques en matière d’emballage. Elles peuvent se décliner en \"5-R\": réduire, réutiliser, remplacer, renouveler, recycler. <br />Enfin, pour la 4e année consécutive, notre programme d’actions \"Femmes et environnement\" engagé par la Fondationn se poursuit, découvrez-en les avancées.<br /><br /> Agissons ensemble !",
+			"signature": "signature",
+			"fonction": "PDG"
+		},
+		"de": {
+			"image": "img-principale",
+			"rubrique" : "Le mot de la présidente CH en version Allemand",
+			"title": "L'environnement CH en version Allemand",
+			"desc": "L’emballage et l’environnement constituent des enjeux stratégiques majeurs pour notre Groupe et nous nous inscrivons dans une démarche active et pérenne de réduction de notre impact sur l’environnement.",
+			"texte": "Depuis de nombreuses années, des actions à tous les niveaux de l’entreprise, retrouvez-les dans la rubrique Raja & l’environnement. <br /> Nous élargissons également notre offre pour vous proposer plus de solutions alternatives à découvrir dans Nos emballages éco-responsables. <br />Nous souhaitons aussi promouvoir les bonnes pratiques en matière d’emballage. Elles peuvent se décliner en \"5-R\": réduire, réutiliser, remplacer, renouveler, recycler. <br />Enfin, pour la 4e année consécutive, notre programme d’actions \"Femmes et environnement\" engagé par la Fondationn se poursuit, découvrez-en les avancées.<br /><br /> Agissons ensemble !",
+			"signature": "signature",
+			"fonction": "PDG"
+		}
+	}
+}

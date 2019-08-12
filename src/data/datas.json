@@ -1,0 +1,34 @@
+{
+	"images" : "imageservicedujson",
+	"edito" : {
+		"image"    	: "json.images",
+		"image_alt"	: "altimage",
+		"rubrique" 	: "Le mot de la présidente",
+		"title"    	: "L'environnement",
+		"desc"     	: "L’emballage et l’environnement constituent des enjeux stratégiques majeurs pour notre Groupe et nous nous inscrivons dans une démarche active et pérenne de réduction de notre impact sur l’environnement.",
+		"texte"    	: "Depuis de nombreuses années, des actions sont menés à tous les niveaux de l’entreprise <br /> Nous élargissons également notre offre pour vous proposer plus de solutions alternatives à découvrir dans Nos emballages éco-responsables. <br />Nous souhaitons aussi promouvoir les bonnes pratiques en matière d’emballage. Elles peuvent se décliner en \"5-R\": réduire, réutiliser, remplacer, renouveler, recycler. <br />Enfin, pour la 4e année consécutive.<br /><br /> Agissons ensemble !",
+		"signature"	: "signature.jpg",
+		"fonction" 	: "DG"
+	},
+	"actualités" : {
+		"title" : "Les actualités éco-responsables",
+		"article_1" : {
+			"image" : "mon-image_artcile_1.png",
+			"date" : "Janvier 2019",
+			"titre" : "L'écologie dans le top 4 des priorités des marchands",
+			"desc" : null,
+			"cta": "Lire l'article",
+			"url": "/",
+			"visible" : true
+		},
+		"article_2" : {
+			"image" : "mon-image_artcile_2.png",
+			"date" : "Fevrier 2019",
+			"titre" : "Comment bien recycler les ",
+			"desc" : null,
+			"cta": "Télécharger l'infographie",
+			"url": "/",
+			"visible" : true
+		}
+	}
+}

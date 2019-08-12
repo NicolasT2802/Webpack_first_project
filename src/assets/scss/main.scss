@@ -1,0 +1,15 @@
+body {
+
+	background-color: #F1F1F1;
+
+	.foo {
+		.bar {
+			font-size: 65px;
+		}
+		.genial {
+			display: flex;
+			user-select: none;
+			box-sizing: border-box;
+		}
+	}
+}
